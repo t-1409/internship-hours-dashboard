@@ -78,6 +78,6 @@ documentation
 
 internship-dashboard.xlsx — Exported dashboard
 
-dashboard-screenshot.png — Preview image
+Internship_analytics_db.png — Preview image
 
 README.md — Project documentation
