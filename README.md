@@ -72,7 +72,7 @@ analytical thinking
 documentation
 
 📸 Dashboard Preview
-![Dashboard Screenshot](internship_analytics_db.png)
+![Dashboard Screenshot](Internship_analytics_db.png)
 
 📂 Files Included
 
